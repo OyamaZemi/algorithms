@@ -8,3 +8,4 @@
 * [行列方程式](matrix_equation)
 * [補間](interpolation)
 * [POMDP](pomdp)
+* [Nash 均衡の計算](nash_equilibrium)
