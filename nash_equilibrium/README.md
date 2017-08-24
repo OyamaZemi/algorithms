@@ -21,7 +21,7 @@ Nash 均衡の計算
       * [Games.jl #26](https://github.com/QuantEcon/Games.jl/pull/26)
 
     * Vertex enumeration
-      * [scipy.spatial.ConvexHull](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.ConvexHull.html)
+      * [QuantEcon.py #326](https://github.com/QuantEcon/QuantEcon.py/pull/326)
       * [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl)
 
     * lrsNash
