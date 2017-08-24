@@ -37,6 +37,8 @@ Nash 均衡の計算
       "[From Imitation Games to Kakutani](http://cupid.economics.uq.edu.au/mclennan/Papers/kakutani60.pdf)"
       * [QuantEcon.py #273](https://github.com/QuantEcon/QuantEcon.py/pull/273)
 
-    * Simplicial subdivision  
-      G. van der Laan, A. J. J. Talman, and L. van der Heyden (1987)
-      "[Simplicial Variable Dimension Algorithms for Solving the Nonlinear Complementarity Problem on a Product of Unit Simplices Using a General Labelling](https://scholar.google.com/scholar?cluster=16246388050012211834)"
+    * Simplicial subdivision
+      * G. van der Laan and A. J. J. Talman (1982)
+        "[On the Computation of Fixed Points in the Product Space of Unit Simplices and an Application to Noncooperative N Person Games](https://scholar.google.com/scholar?cluster=123786532926491999)"
+      * G. van der Laan, A. J. J. Talman, and L. van der Heyden (1987)
+        "[Simplicial Variable Dimension Algorithms for Solving the Nonlinear Complementarity Problem on a Product of Unit Simplices Using a General Labelling](https://scholar.google.com/scholar?cluster=16246388050012211834)"
