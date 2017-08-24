@@ -42,3 +42,9 @@ Nash 均衡の計算
         "[On the Computation of Fixed Points in the Product Space of Unit Simplices and an Application to Noncooperative N Person Games](https://scholar.google.com/scholar?cluster=123786532926491999)"
       * G. van der Laan, A. J. J. Talman, and L. van der Heyden (1987)
         "[Simplicial Variable Dimension Algorithms for Solving the Nonlinear Complementarity Problem on a Product of Unit Simplices Using a General Labelling](https://scholar.google.com/scholar?cluster=16246388050012211834)"
+
+    * Govindan-Wilson
+      * S. Govindana and R. Wilson (2003)
+        "[A global Newton method to compute Nash equilibria](http://www.sciencedirect.com/science/article/pii/S002205310300005X)"
+      * S. Govindana and R. Wilson (2004)
+        "[Computing Nash equilibria by iterated polymatrix approximation](http://www.sciencedirect.com/science/article/pii/S0165188903001088)"
