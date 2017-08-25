@@ -14,6 +14,10 @@ Nash 均衡の計算
     * Lemke-Howson
       * [QuantEcon.py #268](https://github.com/QuantEcon/QuantEcon.py/pull/268)
 
+    * van der Elzen-Talman
+      * A. H. van den Elzen and A. J. J. Talman (1991)
+        "[A procedure for finding Nash equilibria in bi-matrix games](https://link.springer.com/article/10.1007/BF01415958)"
+
   * Nash 均衡をすべて求める
 
     * Support enumeration
@@ -32,9 +36,9 @@ Nash 均衡の計算
 
   * Nash 均衡を1つ求める
 
-    * McLennan-Tourky  
-      McLennan, A. and R. Tourky (2006)
-      "[From Imitation Games to Kakutani](http://cupid.economics.uq.edu.au/mclennan/Papers/kakutani60.pdf)"
+    * McLennan-Tourky 
+      * McLennan, A. and R. Tourky (2006)
+        "[From Imitation Games to Kakutani](http://cupid.economics.uq.edu.au/mclennan/Papers/kakutani60.pdf)"
       * [QuantEcon.py #273](https://github.com/QuantEcon/QuantEcon.py/pull/273)
 
     * Simplicial subdivision
@@ -52,3 +56,11 @@ Nash 均衡の計算
     * McKelvey-Palfrey
       * McKelvey, R. D. and Palfrey, T. R. (1995)
         "[Quantal Response Equilibria for Normal Form Games](http://www.sciencedirect.com/science/article/pii/S0899825685710238)"
+
+    * Other homotopy methods
+      * P. J.-J. Herings and R. Peeters (2010)
+        "[Homotopy methods to compute equilibria in game theory](https://link.springer.com/article/10.1007/s00199-009-0441-5)"
+      * P. J.-J. Herings and A. van den Elzen (2002)
+        "[Computation of the Nash Equilibrium Selected by the Tracing Procedure in N-Person Games](http://www.sciencedirect.com/science/article/pii/S0899825601908565)"
+      * P. J.-J. Herings and R. Peeters (2001)
+        "[A differentiable homotopy to compute Nash equilibria of n-person games](https://link.springer.com/article/10.1007/PL00004129)"
