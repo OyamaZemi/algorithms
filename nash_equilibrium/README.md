@@ -48,3 +48,7 @@ Nash 均衡の計算
         "[A global Newton method to compute Nash equilibria](http://www.sciencedirect.com/science/article/pii/S002205310300005X)"
       * S. Govindana and R. Wilson (2004)
         "[Computing Nash equilibria by iterated polymatrix approximation](http://www.sciencedirect.com/science/article/pii/S0165188903001088)"
+
+    * McKelvey-Palfrey
+      * McKelvey, R. D. and Palfrey, T. R. (1995)
+        "[Quantal Response Equilibria for Normal Form Games](http://www.sciencedirect.com/science/article/pii/S0899825685710238)"
