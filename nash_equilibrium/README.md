@@ -64,3 +64,9 @@ Nash 均衡の計算
         "[Computation of the Nash Equilibrium Selected by the Tracing Procedure in N-Person Games](http://www.sciencedirect.com/science/article/pii/S0899825601908565)"
       * P. J.-J. Herings and R. Peeters (2001)
         "[A differentiable homotopy to compute Nash equilibria of n-person games](https://link.springer.com/article/10.1007/PL00004129)"
+
+  * Nash 均衡をすべて求める
+    * P. J.-J. Herings and R. Peeters (2005)
+      "[A Globally Convergent Algorithm to Compute All Nash Equilibria for n-Person Games](https://link.springer.com/article/10.1007/s10479-005-2265-4)"
+    * R. S. Datta (2010)
+      "[Finding all Nash equilibria of a finite game using polynomial algebra](https://link.springer.com/article/10.1007/s00199-009-0447-z)"
