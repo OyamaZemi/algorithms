@@ -6,7 +6,7 @@ Sparse matrix (疎行列) に対する GTH アルゴリズムを実装する．
 の問題があるからけっこうたいへんなはず．
 
 Dense matrix (密行列) 用のコードは
-[gth_solve.py](https://github.com/QuantEcon/QuantEcon.py/blob/master/quantecon/gth_solve.py)
+[gth_solve.py](https://github.com/QuantEcon/QuantEcon.py/blob/master/quantecon/markov/gth_solve.py)
 にある．
 
 必要な知識
