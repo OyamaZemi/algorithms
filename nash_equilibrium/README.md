@@ -67,6 +67,14 @@ Nash 均衡の計算
       * P. J.-J. Herings and R. Peeters (2001)
         "[A differentiable homotopy to compute Nash equilibria of n-person games](https://link.springer.com/article/10.1007/PL00004129)"
 
+    * Others
+      * Y. Babichenko, S. Barman, and R. Peretz (2014)
+        "[Simple Approximate Equilibria in Large Games](https://dl.acm.org/doi/pdf/10.1145/2600057.2602873)"
+      * K. Berg and T. Sandholm (2017)
+        "[Exclusion Method for Finding Nash Equilibrium in Multiplayer Games](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14605/13789)"
+      * S. Ganzfried (2020)
+        "[Fast Complete Algorithm for Multiplayer Nash Equilibrium](https://arxiv.org/pdf/2002.04734.pdf)"
+
   * Nash 均衡をすべて求める
     * P. J.-J. Herings and R. Peeters (2005)
       "[A Globally Convergent Algorithm to Compute All Nash Equilibria for n-Person Games](https://link.springer.com/article/10.1007/s10479-005-2265-4)"
