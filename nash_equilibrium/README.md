@@ -12,7 +12,8 @@ Nash 均衡の計算
   * Nash 均衡を1つ求める
 
     * Lemke-Howson
-      * [QuantEcon.py #268](https://github.com/QuantEcon/QuantEcon.py/pull/268)
+      * [x] [QuantEcon.py #268](https://github.com/QuantEcon/QuantEcon.py/pull/268)
+      * [Games.jl #129](https://github.com/QuantEcon/Games.jl/issues/129)
 
     * van der Elzen-Talman
       * A. H. van den Elzen and A. J. J. Talman (1991)
@@ -20,17 +21,19 @@ Nash 均衡の計算
 
   * Nash 均衡をすべて求める
 
-    * Support enumeration
-      * [QuantEcon.py #263](https://github.com/QuantEcon/QuantEcon.py/pull/263)
-      * [Games.jl #26](https://github.com/QuantEcon/Games.jl/pull/26)
+    * [x] Support enumeration
+      * [x] [QuantEcon.py #263](https://github.com/QuantEcon/QuantEcon.py/pull/263)
+      * [x] [Games.jl #26](https://github.com/QuantEcon/Games.jl/pull/26)
 
     * Vertex enumeration
-      * [QuantEcon.py #326](https://github.com/QuantEcon/QuantEcon.py/pull/326)
+      * [x] [QuantEcon.py #326](https://github.com/QuantEcon/QuantEcon.py/pull/326)
+      * [Games.jl #43](https://github.com/QuantEcon/Games.jl/issues/43)
       * [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl)
 
     * lrsNash
       * [lrs](http://cgm.cs.mcgill.ca/%7Eavis/C/lrs.html)
       * [LRSLib.jl](https://github.com/JuliaPolyhedra/LRSLib.jl)
+      * [x] [Games.jl #137](https://github.com/QuantEcon/Games.jl/pull/137)
 
 * N人ゲーム
 
@@ -39,7 +42,7 @@ Nash 均衡の計算
     * McLennan-Tourky 
       * McLennan, A. and R. Tourky (2006)
         "[From Imitation Games to Kakutani](http://cupid.economics.uq.edu.au/mclennan/Papers/kakutani60.pdf)"
-      * [QuantEcon.py #273](https://github.com/QuantEcon/QuantEcon.py/pull/273)
+      * [x] [QuantEcon.py #273](https://github.com/QuantEcon/QuantEcon.py/pull/273)
 
     * Simplicial subdivision
       * G. van der Laan and A. J. J. Talman (1982)
@@ -80,3 +83,4 @@ Nash 均衡の計算
       "[A Globally Convergent Algorithm to Compute All Nash Equilibria for n-Person Games](https://link.springer.com/article/10.1007/s10479-005-2265-4)"
     * R. S. Datta (2010)
       "[Finding all Nash equilibria of a finite game using polynomial algebra](https://link.springer.com/article/10.1007/s00199-009-0447-z)"
+    * [Games.jl #47](https://github.com/QuantEcon/Games.jl/issues/47)
