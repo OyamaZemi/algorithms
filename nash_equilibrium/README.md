@@ -13,7 +13,7 @@ Nash 均衡の計算
 
     * Lemke-Howson
       * [x] [QuantEcon.py #268](https://github.com/QuantEcon/QuantEcon.py/pull/268)
-      * [Games.jl #129](https://github.com/QuantEcon/Games.jl/issues/129)
+      * [GameTheory.jl #129](https://github.com/QuantEcon/GameTheory.jl/issues/129)
 
     * van der Elzen-Talman
       * A. H. van den Elzen and A. J. J. Talman (1991)
@@ -23,17 +23,19 @@ Nash 均衡の計算
 
     * [x] Support enumeration
       * [x] [QuantEcon.py #263](https://github.com/QuantEcon/QuantEcon.py/pull/263)
-      * [x] [Games.jl #26](https://github.com/QuantEcon/Games.jl/pull/26)
+      * [x] [GameTheory.jl #26](https://github.com/QuantEcon/GameTheory.jl/pull/26)
 
     * Vertex enumeration
       * [x] [QuantEcon.py #326](https://github.com/QuantEcon/QuantEcon.py/pull/326)
-      * [Games.jl #43](https://github.com/QuantEcon/Games.jl/issues/43)
+      * [GameTheory.jl #43](https://github.com/QuantEcon/GameTheory.jl/issues/43)
+        - [ ] [GameTheory.jl #64](https://github.com/QuantEcon/GameTheory.jl/pull/64)
+        - [ ] [GameTheory.jl #155](https://github.com/QuantEcon/GameTheory.jl/pull/155)
       * [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl)
 
     * lrsNash
       * [lrs](http://cgm.cs.mcgill.ca/%7Eavis/C/lrs.html)
       * [LRSLib.jl](https://github.com/JuliaPolyhedra/LRSLib.jl)
-      * [x] [Games.jl #137](https://github.com/QuantEcon/Games.jl/pull/137)
+      * [x] [GameTheory.jl #137](https://github.com/QuantEcon/GameTheory.jl/pull/137)
 
 * N人ゲーム
 
@@ -83,4 +85,5 @@ Nash 均衡の計算
       "[A Globally Convergent Algorithm to Compute All Nash Equilibria for n-Person Games](https://link.springer.com/article/10.1007/s10479-005-2265-4)"
     * R. S. Datta (2010)
       "[Finding all Nash equilibria of a finite game using polynomial algebra](https://link.springer.com/article/10.1007/s00199-009-0447-z)"
-    * [Games.jl #47](https://github.com/QuantEcon/Games.jl/issues/47)
+    * [GameTheory.jl #47](https://github.com/QuantEcon/GameTheory.jl/issues/47)
+      - [x] [GameTheory.jl #174](https://github.com/QuantEcon/GameTheory.jl/pull/174)
