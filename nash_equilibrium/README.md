@@ -46,6 +46,11 @@ Nash 均衡の計算
         "[From Imitation Games to Kakutani](http://cupid.economics.uq.edu.au/mclennan/Papers/kakutani60.pdf)"
       * [x] [QuantEcon.py #273](https://github.com/QuantEcon/QuantEcon.py/pull/273)
 
+    * Polymatrix games
+      * J. T. Howson, Jr. (1972)
+        "[Equilibria of Polymatrix Games](https://www.jstor.org/stable/2634798)"
+      * [x] [QuantEcon.py #741](https://github.com/QuantEcon/QuantEcon.py/pull/741)
+
     * Simplicial subdivision
       * G. van der Laan and A. J. J. Talman (1982)
         "[On the Computation of Fixed Points in the Product Space of Unit Simplices and an Application to Noncooperative N Person Games](https://scholar.google.com/scholar?cluster=123786532926491999)"
