@@ -13,7 +13,7 @@ Nash 均衡の計算
 
     * Lemke-Howson
       * [x] [QuantEcon.py #268](https://github.com/QuantEcon/QuantEcon.py/pull/268)
-      * [GameTheory.jl #129](https://github.com/QuantEcon/GameTheory.jl/issues/129)
+      * [x] [GameTheory.jl #204](https://github.com/QuantEcon/GameTheory.jl/issues/204)
 
     * van der Elzen-Talman
       * A. H. van den Elzen and A. J. J. Talman (1991)
@@ -36,6 +36,7 @@ Nash 均衡の計算
       * [lrs](http://cgm.cs.mcgill.ca/%7Eavis/C/lrs.html)
       * [LRSLib.jl](https://github.com/JuliaPolyhedra/LRSLib.jl)
       * [x] [GameTheory.jl #137](https://github.com/QuantEcon/GameTheory.jl/pull/137)
+      * [jlgametheory](https://github.com/QuantEcon/jlgametheory)
 
 * N人ゲーム
 
