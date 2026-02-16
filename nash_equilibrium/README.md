@@ -65,6 +65,7 @@ Nash 均衡の計算
         "[Computing Nash equilibria by iterated polymatrix approximation](http://www.sciencedirect.com/science/article/pii/S0165188903001088)"
       * S. Govindana and R. Wilson (2008)
         "[Computing Equilibria of N-Player Games with Arbitrary Accuracy](https://ssrn.com/abstract=1111767)"
+      * [GameTracer](http://dags.stanford.edu/Games/gametracer.html)
 
     * McKelvey-Palfrey
       * McKelvey, R. D. and Palfrey, T. R. (1995)
@@ -77,7 +78,6 @@ Nash 均衡の計算
         "[Computation of the Nash Equilibrium Selected by the Tracing Procedure in N-Person Games](http://www.sciencedirect.com/science/article/pii/S0899825601908565)"
       * P. J.-J. Herings and R. Peeters (2001)
         "[A differentiable homotopy to compute Nash equilibria of n-person games](https://link.springer.com/article/10.1007/PL00004129)"
-      * [GameTracer](http://dags.stanford.edu/Games/gametracer.html)
 
     * Others
       * Y. Babichenko, S. Barman, and R. Peretz (2014)
