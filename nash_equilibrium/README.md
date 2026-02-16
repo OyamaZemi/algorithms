@@ -77,6 +77,7 @@ Nash 均衡の計算
         "[Computation of the Nash Equilibrium Selected by the Tracing Procedure in N-Person Games](http://www.sciencedirect.com/science/article/pii/S0899825601908565)"
       * P. J.-J. Herings and R. Peeters (2001)
         "[A differentiable homotopy to compute Nash equilibria of n-person games](https://link.springer.com/article/10.1007/PL00004129)"
+      * [GameTracer](http://dags.stanford.edu/Games/gametracer.html)
 
     * Others
       * Y. Babichenko, S. Barman, and R. Peretz (2014)
