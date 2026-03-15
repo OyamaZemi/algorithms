@@ -27,9 +27,7 @@ Nash 均衡の計算
 
     * Vertex enumeration
       * [x] [QuantEcon.py #326](https://github.com/QuantEcon/QuantEcon.py/pull/326)
-      * [GameTheory.jl #43](https://github.com/QuantEcon/GameTheory.jl/issues/43)
-        - [ ] [GameTheory.jl #64](https://github.com/QuantEcon/GameTheory.jl/pull/64)
-        - [ ] [GameTheory.jl #155](https://github.com/QuantEcon/GameTheory.jl/pull/155)
+      * [x] [GameTheory.jl #214](https://github.com/QuantEcon/GameTheory.jl/pull/214)
       * [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl)
 
     * lrsNash
