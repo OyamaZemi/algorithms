@@ -92,3 +92,9 @@ Nash 均衡の計算
       "[Finding all Nash equilibria of a finite game using polynomial algebra](https://link.springer.com/article/10.1007/s00199-009-0447-z)"
     * [GameTheory.jl #47](https://github.com/QuantEcon/GameTheory.jl/issues/47)
       - [x] [GameTheory.jl #174](https://github.com/QuantEcon/GameTheory.jl/pull/174)
+
+* Large Scale Games
+  * I. Gemp et al. (2022)
+    "[Sample-based Approximation of Nash in Large Many-Player Games via Gradient Descent](https://arxiv.org/abs/2106.01285)"
+  * L. Meng et al. (2025)
+    "[Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games](https://openreview.net/pdf?id=Hp53p5AU7X)"
