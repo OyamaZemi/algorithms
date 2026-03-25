@@ -96,5 +96,8 @@ Nash 均衡の計算
 * Large Scale Games
   * I. Gemp et al. (2022)
     "[Sample-based Approximation of Nash in Large Many-Player Games via Gradient Descent](https://arxiv.org/abs/2106.01285)"
+  * I. Gemp et al. (2024)
+    "[Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization](https://arxiv.org/abs/2310.06689)"
   * L. Meng et al. (2025)
     "[Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games](https://openreview.net/pdf?id=Hp53p5AU7X)"
+    (Seems to be a perturbed version of the projection dynamics)
