@@ -42,7 +42,8 @@ Nash 均衡の計算
 
     * McLennan-Tourky 
       * McLennan, A. and R. Tourky (2006)
-        "[From Imitation Games to Kakutani](http://cupid.economics.uq.edu.au/mclennan/Papers/kakutani60.pdf)"
+        "From Imitation Games to Kakutani"
+        [slides](https://arnold-neumaier.at/glopt/gicolag/talks/mclennan.pdf)
       * [x] [QuantEcon.py #273](https://github.com/QuantEcon/QuantEcon.py/pull/273)
 
     * Polymatrix games
@@ -64,6 +65,7 @@ Nash 均衡の計算
       * S. Govindana and R. Wilson (2008)
         "[Computing Equilibria of N-Player Games with Arbitrary Accuracy](https://ssrn.com/abstract=1111767)"
       * [GameTracer](http://dags.stanford.edu/Games/gametracer.html)
+        - [GameTracer.jl](https://github.com/QuantEcon/GameTracer.jl)
 
     * McKelvey-Palfrey
       * McKelvey, R. D. and Palfrey, T. R. (1995)
